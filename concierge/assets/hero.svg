@@ -1,0 +1,23 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SUAVE Concierge</title>
+  <desc id="desc">WhatsApp-first concierge for boutique hotels.</desc>
+  <rect width="1200" height="420" fill="#0B0B0D"/>
+  <rect x="48" y="48" width="1104" height="324" rx="26" fill="#111114" stroke="#2A2A30"/>
+  <circle cx="988" cy="130" r="76" fill="#6FA8DC" fill-opacity="0.10"/>
+  <circle cx="1048" cy="208" r="124" fill="#6FA8DC" fill-opacity="0.04"/>
+  <text x="96" y="148" fill="#F5F5F5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="600" letter-spacing="-0.5">SUAVE Concierge</text>
+  <text x="96" y="196" fill="#C8C8D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="0">WhatsApp-first concierge for boutique hotels.</text>
+  <g transform="translate(96 248)">
+    <rect width="124" height="40" rx="20" fill="#18181C" stroke="#3A3A42"/>
+    <text x="62" y="26" fill="#F5F5F5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0" text-anchor="middle">WhatsApp</text>
+    <rect x="136" width="136" height="40" rx="20" fill="#18181C" stroke="#3A3A42"/>
+    <text x="204" y="26" fill="#F5F5F5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0" text-anchor="middle">Multilingual</text>
+    <rect x="288" width="156" height="40" rx="20" fill="#18181C" stroke="#3A3A42"/>
+    <text x="366" y="26" fill="#F5F5F5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0" text-anchor="middle">Deterministic</text>
+    <rect x="460" width="148" height="40" rx="20" fill="#18181C" stroke="#3A3A42"/>
+    <text x="534" y="26" fill="#F5F5F5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0" text-anchor="middle">Staff handoff</text>
+    <rect x="624" width="120" height="40" rx="20" fill="#18181C" stroke="#3A3A42"/>
+    <text x="684" y="26" fill="#F5F5F5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0" text-anchor="middle">Audit trail</text>
+  </g>
+  <text x="1104" y="338" fill="#6FA8DC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" text-anchor="end" letter-spacing="0">SUAVE</text>
+</svg>

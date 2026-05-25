@@ -13,14 +13,24 @@ Oaxaca coast.
 
 </div>
 
+<p align="center">
+  <a href="./pms/">
+    <img src="./assets/card-pms.svg" alt="SUAVE PMS — hotel operating system for boutique hotels" width="380" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="./concierge/">
+    <img src="./assets/card-concierge.svg" alt="SUAVE Concierge — WhatsApp-first concierge for boutique hotels" width="380" />
+  </a>
+</p>
+
 ---
 
 ## Building
 
 | Product | What it is |
 | --- | --- |
-| **SUAVE PMS** | A hotel operating system for reservations, rooms, payments, folios, team workflows, and full auditability. |
-| **SUAVE Concierge** | A staff platform for guest requests including transport, dining, spa, and excursions, with coordination and audit trail across the on-property team. |
+| **[SUAVE PMS](./pms/)** | A hotel operating system for reservations, rooms, payments, folios, team workflows, and full auditability. |
+| **[SUAVE Concierge](./concierge/)** | A WhatsApp-first concierge for boutique hotels — guests text the property, the bot understands and replies, staff take over when needed. |
 
 Production code is private. I don't publish customer data, credentials, or
 internal architecture to make a profile look busier.
