@@ -1,10 +1,10 @@
-![SoAV profile banner](./assets/soav-profile-banner.svg)
+![SUAVE profile banner](./assets/suave-profile-banner.svg)
 
 <div align="center">
 
 # Bruno Di Santo
 
-**Software engineer and founder building SoAV PMS and SoAV Concierge.**
+**Software engineer and founder building SUAVE PMS and SUAVE Concierge.**
 
 Hospitality software for boutique teams: reservations, front desk workflows,
 guest operations, payments, audit trails, and concierge execution.
@@ -17,12 +17,12 @@ guest operations, payments, audit trails, and concierge execution.
 
 ## Building
 
-I am building **SoAV**, focused on two hospitality products:
+I am building **SUAVE**, focused on two hospitality products:
 
 | Product | Focus |
 | --- | --- |
-| **SoAV PMS** | A hotel operating system for reservations, rooms, operations, payments, team workflows, and auditability. |
-| **SoAV Concierge** | A concierge operations layer for guest requests, service coordination, and high-touch hospitality teams. |
+| **SUAVE PMS** | A hotel operating system for reservations, rooms, operations, payments, team workflows, and auditability. |
+| **SUAVE Concierge** | A concierge operations layer for guest requests, service coordination, and high-touch hospitality teams. |
 
 The production code is private. That is intentional. I do not publish customer
 data, credentials, internal business logic, or operational attack surface just to
@@ -56,7 +56,7 @@ I build from the product contract first:
 4. What belongs in the UI, the service layer, the database, and the audit log?
 5. What evidence proves it works on the real path?
 
-For SoAV, that means prioritizing real authentication, real persistence, real
+For SUAVE, that means prioritizing real authentication, real persistence, real
 hotel workflows, and a system that can be trusted by the people running the
 property.
 
@@ -67,7 +67,7 @@ property.
 Most active product repositories are private while the company is being built.
 This profile will only show public repositories when they are safe and useful:
 
-- sanitized SoAV product case studies
+- sanitized SUAVE product case studies
 - architecture notes without secrets or production code
 - security and testing writeups
 - small standalone examples when they do not expose the private product
