@@ -4,12 +4,10 @@
 
 # Bruno Di Santo
 
-**Founder and engineer building SUAVE, and the private local agent infrastructure
-around it.**
+**Founder and engineer building SUAVE and XEMA.**
 
-Mexico City and Oaxaca. Building operational software for boutique hotels and a
-guarded personal development agent that helps me move faster without lowering the
-engineering bar.
+Mexico City and Oaxaca. Private operating software for boutique hotels, plus a
+local agent lab for guarded engineering workflows.
 
 [LinkedIn](https://www.linkedin.com/in/disantobruno/)
 
@@ -37,7 +35,7 @@ engineering bar.
 | --- | --- |
 | **[SUAVE PMS](./pms/)** | A hotel operating system for reservations, rooms, payments, folios, team workflows, and full auditability. |
 | **[SUAVE Concierge](./concierge/)** | A WhatsApp-first concierge for boutique hotels — guests text the property, the bot understands and replies, staff take over when needed. |
-| **[XEMA](./xema/)** | A private local development agent project: safety-first orchestration around Claude Code, Codex, repo boundaries, audit trails, and human gates. |
+| **[XEMA](./xema/)** | A private local development-agent project: Claude Code, Codex, repo boundaries, audit trails, and human approval gates. |
 
 Most production code is private. I don't publish customer data, credentials,
 provider configuration, or internal architecture just to make a profile look
