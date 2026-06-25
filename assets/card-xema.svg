@@ -1,22 +1,19 @@
 <svg width="560" height="220" viewBox="0 0 560 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">XEMA</title>
   <desc id="desc">Private local development agent infrastructure. Click to read more.</desc>
-  <rect width="560" height="220" fill="#0B0B0D"/>
-  <rect x="12" y="12" width="536" height="196" rx="18" fill="#111114" stroke="#2A2A30"/>
-  <circle cx="494" cy="60" r="46" fill="#A3E635" fill-opacity="0.09"/>
-  <circle cx="520" cy="98" r="64" fill="#A3E635" fill-opacity="0.04"/>
-  <text x="36" y="74" fill="#F5F5F5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="-0.3">XEMA</text>
-  <text x="36" y="108" fill="#C8C8D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" letter-spacing="0">Private local dev-agent infrastructure.</text>
-  <text x="36" y="134" fill="#8E8E99" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="0">Claude Code · Codex · safety gates · audit trails.</text>
+  <rect width="560" height="220" fill="#08090B"/>
+  <rect x="12" y="12" width="536" height="196" rx="8" fill="#101114" stroke="#2B2D33"/>
+  <rect x="12" y="12" width="536" height="6" rx="3" fill="#A3E635"/>
+  <text x="36" y="72" fill="#F7F7F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="720" letter-spacing="0">XEMA</text>
+  <text x="36" y="106" fill="#C7CBD1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="520" letter-spacing="0">Private local dev-agent infrastructure.</text>
+  <text x="36" y="134" fill="#8F96A3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="560" letter-spacing="0">Claude Code / Codex / safety gates / audit trails</text>
   <g transform="translate(36 158)">
-    <rect width="86" height="30" rx="15" fill="#18181C" stroke="#3A3A42"/>
-    <text x="43" y="20" fill="#A3E635" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="0" text-anchor="middle">Local</text>
-    <rect x="94" width="96" height="30" rx="15" fill="#18181C" stroke="#3A3A42"/>
-    <text x="142" y="20" fill="#A3E635" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="0" text-anchor="middle">Guarded</text>
-    <rect x="198" width="106" height="30" rx="15" fill="#18181C" stroke="#3A3A42"/>
-    <text x="251" y="20" fill="#A3E635" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="0" text-anchor="middle">Audit-first</text>
+    <rect width="86" height="30" rx="6" fill="#15171B" stroke="#3A3D45"/>
+    <text x="43" y="20" fill="#A3E635" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="650" letter-spacing="0" text-anchor="middle">Local</text>
+    <rect x="94" width="96" height="30" rx="6" fill="#15171B" stroke="#3A3D45"/>
+    <text x="142" y="20" fill="#A3E635" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="650" letter-spacing="0" text-anchor="middle">Guarded</text>
+    <rect x="198" width="106" height="30" rx="6" fill="#15171B" stroke="#3A3D45"/>
+    <text x="251" y="20" fill="#A3E635" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="650" letter-spacing="0" text-anchor="middle">Audit-first</text>
   </g>
-  <g transform="translate(508 178)">
-    <path d="M0 0L10 -10M10 -10L0 -20M10 -10H-14" stroke="#A3E635" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-  </g>
+  <path d="M508 178L518 168M518 168L508 158M518 168H494" stroke="#A3E635" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
