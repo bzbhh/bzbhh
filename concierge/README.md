@@ -1,11 +1,11 @@
 <pre>
 ┌────────────────────────────────────────────────────────────────────────────────┐
 │▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│
-│▒▒                                                                            ▒▒│
-│▒▒ S U A V E   C O N C I E R G E                                              ▒▒│
-│▒▒ whatsapp-first concierge for boutique hotels                               ▒▒│
-│▒▒                                                                            ▒▒│
 │▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│
+│                                                                                │
+│   S U A V E   C O N C I E R G E                                                │
+│   whatsapp-first concierge for boutique hotels                                 │
+│                                                                                │
 └────────────────────────────────────────────────────────────────────────────────┘
   <a href="../README.md">back to profile</a>  ·  <a href="https://www.linkedin.com/in/disantobruno/">linkedin</a>
 </pre>
