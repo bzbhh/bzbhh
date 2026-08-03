@@ -1,71 +1,66 @@
-![SUAVE profile banner](./assets/suave-profile-banner.svg)
+<pre>
+<a href="./pms/">┌────────────────────────┐</a>  <a href="./concierge/">┌────────────────────────┐</a>  <a href="./xema/">┌────────────────────────┐</a>
+<a href="./pms/">│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│</a>  <a href="./concierge/">│▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│</a>  <a href="./xema/">│░░░░░░░░░░░░░░░░░░░░░░░░│</a>
+<a href="./pms/">│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│</a>  <a href="./concierge/">│▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│</a>  <a href="./xema/">│░░░░░░░░░░░░░░░░░░░░░░░░│</a>
+<a href="./pms/">│▓▓                    ▓▓│</a>  <a href="./concierge/">│▒▒                    ▒▒│</a>  <a href="./xema/">│░░                    ░░│</a>
+<a href="./pms/">│▓▓ S U A V E          ▓▓│</a>  <a href="./concierge/">│▒▒ S U A V E          ▒▒│</a>  <a href="./xema/">│░░ X E M A            ░░│</a>
+<a href="./pms/">│▓▓ P M S              ▓▓│</a>  <a href="./concierge/">│▒▒ C O N C I E R G E  ▒▒│</a>  <a href="./xema/">│░░ A G E N T   L A B  ░░│</a>
+<a href="./pms/">│▓▓                    ▓▓│</a>  <a href="./concierge/">│▒▒                    ▒▒│</a>  <a href="./xema/">│░░                    ░░│</a>
+<a href="./pms/">│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│</a>  <a href="./concierge/">│▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│</a>  <a href="./xema/">│░░░░░░░░░░░░░░░░░░░░░░░░│</a>
+<a href="./pms/">│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│</a>  <a href="./concierge/">│▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│</a>  <a href="./xema/">│░░░░░░░░░░░░░░░░░░░░░░░░│</a>
+<a href="./pms/">└────────────────────────┘</a>  <a href="./concierge/">└────────────────────────┘</a>  <a href="./xema/">└────────────────────────┘</a>
 
-<div align="center">
+══════════════════════════════════════════════════════════════════════════════════
+  B R U N O   D I   S A N T O
+  founder and engineer  ·  hotel operating systems  ·  paris
+  <a href="https://www.linkedin.com/in/disantobruno/">linkedin.com/in/disantobruno</a>
+══════════════════════════════════════════════════════════════════════════════════
+</pre>
 
-# Bruno Di Santo
-
-**Founder and engineer building SUAVE and XEMA.**
-
-Mexico City and Oaxaca. Private operating software for boutique hotels, plus a
-local agent lab for guarded engineering workflows.
-
-[LinkedIn](https://www.linkedin.com/in/disantobruno/)
-
-</div>
-
-<p align="center">
-  <a href="./pms/">
-    <img src="./assets/card-pms.svg" alt="SUAVE PMS — hotel operating system for boutique hotels" width="380" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="./concierge/">
-    <img src="./assets/card-concierge.svg" alt="SUAVE Concierge — WhatsApp-first concierge for boutique hotels" width="380" />
-  </a>
-  <br /><br />
-  <a href="./xema/">
-    <img src="./assets/card-xema.svg" alt="XEMA — private local development agent infrastructure" width="380" />
-  </a>
-</p>
-
----
+I build the software boutique hotels run their day on — reservations, front desk,
+folios, payments, guest messaging — plus the tooling I use to build it safely.
 
 ## Building
 
-| Product | What it is |
-| --- | --- |
-| **[SUAVE PMS](./pms/)** | A hotel operating system for reservations, rooms, payments, folios, team workflows, and full auditability. |
-| **[SUAVE Concierge](./concierge/)** | A WhatsApp-first concierge for boutique hotels — guests text the property, the bot understands and replies, staff take over when needed. |
-| **[XEMA](./xema/)** | A private local development-agent project: Claude Code, Codex, repo boundaries, audit trails, and human approval gates. |
+- [**SUAVE PMS**](./pms/) — hotel operating system for 8 to 25 room properties.
+  Reservations, front desk, housekeeping, folios, payments, rates, night audit.
+- [**SUAVE Concierge**](./concierge/) — WhatsApp-first concierge. Guests text the
+  property, the system answers in their language, staff take over on demand.
+- [**XEMA**](./xema/) — local agent lab. Bounded execution, repository guards,
+  audit trails, explicit human approval gates.
 
-Most production code is private. I don't publish customer data, credentials,
-provider configuration, or internal architecture just to make a profile look
-busier.
+Production code is private. I don't publish customer data, credentials, provider
+configuration, or internal architecture to make a profile look busier.
 
----
+## Engineering
 
-## Engineering Focus
-
-- **Frontend product:** React, TypeScript, dense operational UIs, dashboards for staff who work the system all day.
-- **Backend and data:** Postgres with row-level security, RPC boundaries, durable audit logs, typed service layers.
-- **Security posture:** fail-closed auth, least privilege, environment isolation, private-by-default.
-- **Payments and operations:** Stripe, folios, reservation ledgers, guest-facing and staff-facing flows.
-- **Agent infrastructure:** local-first automation, bounded subprocess control, audit-first workflows, explicit human approval gates.
-- **Quality discipline:** Vitest, Playwright, source-of-truth tests, CI gates, adversarial review, and real-path verification.
+```
+frontend    React · TypeScript · dense operational UI · desktop-first
+backend     Postgres · row-level security · RPC boundaries · typed service layers
+security    fail-closed auth · least privilege · per-tenant isolation
+payments    Stripe · folios · reservation ledgers · refunds and voids
+agents      local-first orchestration · bounded subprocesses · approval gates
+quality     Vitest · Playwright · CI gates · adversarial review
+```
 
 Software that survives real operations, not demo screenshots.
 
----
+## How I work
 
-## How I Work
+Five questions, always in this order, before anything ships:
 
 1. What should the user be able to do?
-2. What data must be true after the action?
-3. What can fail, and how should it fail safely?
-4. What belongs in the UI, the service layer, the database, and the audit log?
+2. What must be true in the data after the action?
+3. What can fail, and how does it fail safely?
+4. What belongs in the UI, the service layer, the database, the audit log?
 5. What evidence proves it works on the real path?
 
----
+The last one is the one people skip. A green test suite proves the repository's
+gates pass. It does not prove deployment, delivery, or that a receptionist can
+close a folio at 2am without losing money.
 
-## Contact
-
-**[linkedin.com/in/disantobruno](https://www.linkedin.com/in/disantobruno/)**
+<pre>
+──────────────────────────────────────────────────────────────────────────────────
+  <a href="https://www.linkedin.com/in/disantobruno/">linkedin</a>  ·  <a href="./pms/">suave pms</a>  ·  <a href="./concierge/">suave concierge</a>  ·  <a href="./xema/">xema</a>
+──────────────────────────────────────────────────────────────────────────────────
+</pre>

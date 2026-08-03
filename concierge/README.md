@@ -1,20 +1,18 @@
-![SUAVE Concierge](./assets/hero.svg)
+<pre>
+┌────────────────────────────────────────────────────────────────────────────────┐
+│▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│
+│▒▒                                                                            ▒▒│
+│▒▒ S U A V E   C O N C I E R G E                                              ▒▒│
+│▒▒ whatsapp-first concierge for boutique hotels                               ▒▒│
+│▒▒                                                                            ▒▒│
+│▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│
+└────────────────────────────────────────────────────────────────────────────────┘
+  <a href="../README.md">back to profile</a>  ·  <a href="https://www.linkedin.com/in/disantobruno/">linkedin</a>
+</pre>
 
-<div align="center">
-
-# SUAVE Concierge
-
-**WhatsApp-first concierge for boutique hotels.**
-
-Guests text the property on WhatsApp. The bot understands the request in
-the guest's language, replies from the hotel's own knowledge base, and hands
-off to the on-property team when a human is needed.
-
-[← Back to profile](../README.md) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/disantobruno/)
-
-</div>
-
----
+Guests text the property on WhatsApp. The bot understands the request in the
+guest's language, replies from the hotel's own knowledge base, and hands off to
+the on-property team when a human is needed.
 
 ## What it does
 
@@ -48,10 +46,8 @@ the conversation at any moment.
 - **Kill switch per hotel.** Staff can stop automatic replies at any moment without taking the system down.
 - **Privacy is a feature, not a setting.** Retention windows and right-to-erasure tooling are part of the product, not a legal afterthought.
 
----
-
-<div align="center">
-
-**Contact:** [linkedin.com/in/disantobruno](https://www.linkedin.com/in/disantobruno/)
-
-</div>
+<pre>
+──────────────────────────────────────────────────────────────────────────────────
+  <a href="../README.md">back to profile</a>  ·  <a href="../pms/">suave pms</a>  ·  <a href="../xema/">xema</a>  ·  <a href="https://www.linkedin.com/in/disantobruno/">linkedin</a>
+──────────────────────────────────────────────────────────────────────────────────
+</pre>

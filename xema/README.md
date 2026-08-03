@@ -1,20 +1,18 @@
-![XEMA](./assets/hero.svg)
+<pre>
+┌────────────────────────────────────────────────────────────────────────────────┐
+│░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│
+│░░                                                                            ░░│
+│░░ X E M A                                                                    ░░│
+│░░ local agent lab for guarded engineering workflows                          ░░│
+│░░                                                                            ░░│
+│░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│
+└────────────────────────────────────────────────────────────────────────────────┘
+  <a href="../README.md">back to profile</a>  ·  <a href="https://www.linkedin.com/in/disantobruno/">linkedin</a>
+</pre>
 
-<div align="center">
-
-# XEMA
-
-**Private local development agent infrastructure.**
-
-XEMA is my personal research and engineering project for building a guarded local
-operator around the tools I already use: Claude Code, Codex, GitHub, local
-repositories, terminal sessions, and strict proof gates.
-
-[← Back to profile](../README.md) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/disantobruno/)
-
-</div>
-
----
+A personal research and engineering project: a guarded local operator around the
+tools I already use — Claude Code, Codex, GitHub, local repositories, terminal
+sessions, and strict proof gates.
 
 ## What it is
 
@@ -60,10 +58,8 @@ an uncontrolled script pile.
 The project is private while the safety model, architecture, and operating
 contract mature.
 
----
-
-<div align="center">
-
-**Contact:** [linkedin.com/in/disantobruno](https://www.linkedin.com/in/disantobruno/)
-
-</div>
+<pre>
+──────────────────────────────────────────────────────────────────────────────────
+  <a href="../README.md">back to profile</a>  ·  <a href="../pms/">suave pms</a>  ·  <a href="../concierge/">suave concierge</a>  ·  <a href="https://www.linkedin.com/in/disantobruno/">linkedin</a>
+──────────────────────────────────────────────────────────────────────────────────
+</pre>

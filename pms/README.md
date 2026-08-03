@@ -1,20 +1,18 @@
-![SUAVE PMS](./assets/hero.svg)
+<pre>
+┌────────────────────────────────────────────────────────────────────────────────┐
+│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
+│▓▓                                                                            ▓▓│
+│▓▓ S U A V E   P M S                                                          ▓▓│
+│▓▓ hotel operating system for boutique hotels                                 ▓▓│
+│▓▓                                                                            ▓▓│
+│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
+└────────────────────────────────────────────────────────────────────────────────┘
+  <a href="../README.md">back to profile</a>  ·  <a href="https://www.linkedin.com/in/disantobruno/">linkedin</a>
+</pre>
 
-<div align="center">
-
-# SUAVE PMS
-
-**Hotel operating system for boutique hotels.**
-
-A desktop-first property management system for properties in the 8 to 25 room range —
-reservations, front desk, housekeeping, folios, payments, rates, and reports —
-built to be operated all day by the front-desk team.
-
-[← Back to profile](../README.md) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/disantobruno/)
-
-</div>
-
----
+A desktop-first property management system for properties in the 8 to 25 room
+range — reservations, front desk, housekeeping, folios, payments, rates, and
+reports — built to be operated all day by the front-desk team.
 
 ## What it does
 
@@ -49,10 +47,8 @@ is one missed update away from a double-booking.
 - **Desktop-first, not desktop-also.** Built for staff who use the product eight hours a day, not for guests browsing on a phone.
 - **Boutique-native.** The data model, the role matrix, and the workflows are sized for 8 to 25 rooms — not a stripped-down enterprise PMS.
 
----
-
-<div align="center">
-
-**Contact:** [linkedin.com/in/disantobruno](https://www.linkedin.com/in/disantobruno/)
-
-</div>
+<pre>
+──────────────────────────────────────────────────────────────────────────────────
+  <a href="../README.md">back to profile</a>  ·  <a href="../concierge/">suave concierge</a>  ·  <a href="../xema/">xema</a>  ·  <a href="https://www.linkedin.com/in/disantobruno/">linkedin</a>
+──────────────────────────────────────────────────────────────────────────────────
+</pre>
